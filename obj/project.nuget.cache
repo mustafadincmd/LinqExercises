@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uxo13grgBDrK3w2Xtg9Lp/DLtPmKo4+8hm9XPMwuj4PwfVprBTIb7Djehr8ofC6pYE8qKgTVUFj4laHhQi1+6g==",
+  "success": true,
+  "projectFilePath": "/Users/mustafadinc/Projects/LinqExercises/LinqExercises.csproj",
+  "expectedPackageFiles": [
+    "/Users/mustafadinc/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/mustafadinc/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/mustafadinc/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.20/microsoft.netcore.app.host.osx-arm64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
